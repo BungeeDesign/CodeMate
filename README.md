@@ -3,6 +3,8 @@
 Any projects you work on feel free to share them in the CodeMate Repo!
 If you have any project ideas, add them in below.
 
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 # Project Ideas:
 
   - How to build a modern website
