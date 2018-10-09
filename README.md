@@ -5,6 +5,10 @@ If you have any project ideas, add them in below.
 
 [logo]: https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/42665036_312047072907105_4492898548848787456_n.jpg?_nc_cat=103&oh=e4350ca04fb5cf1c0350384b40d1a533&oe=5C50BCDA "Logo Title Text 2"
 
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 # Project Ideas:
 
   - How to build a modern website
